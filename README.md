@@ -131,6 +131,20 @@ After completing the CampusX playlist, I plan to continue practicing LangGraph b
 * 🔄 Multi-Agent System
 * 🧠 Human-in-the-Loop Agent
 
+## 📈 Learning Progress
+
+* [x] LangGraph fundamentals
+* [x] Graphs, nodes, and edges
+* [x] State management
+* [x] Conditional workflows
+* [x] LLM integration
+* [x] Tool calling
+* [x] AI agents
+* [x] Advanced workflows
+* [x] Completed CampusX LangGraph playlist
+* [ ] Build real-world LangGraph projects
+* [ ] Build multi-agent applications
+* [ ] Deploy an agentic AI application
 
 
 
