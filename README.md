@@ -119,6 +119,19 @@ Generate Final Response
 
 This makes it especially useful for building **AI agents and complex agentic workflows**.
 
+## 🚀 Future Plans
+
+After completing the CampusX playlist, I plan to continue practicing LangGraph by building projects such as:
+
+* 🤖 AI Chatbot with Memory
+* 🔎 RAG-based AI Agent
+* 🛠️ Tool-Calling Agent
+* 👨‍💻 Coding Assistant
+* 📊 Data Analysis Agent
+* 🔄 Multi-Agent System
+* 🧠 Human-in-the-Loop Agent
+
+
 
 
 ## 🙌 Acknowledgement
